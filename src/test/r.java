@@ -168,6 +168,8 @@ public class r {
         System.out.println("y=" + point1[0] + " x=" + point1[1]);
         System.out.println("y=" + point2[0] + " x=" + point2[1]);
         System.out.println("github commit");
+        System.out.println("github hot-fix commit");
+        System.out.println("github commit");
     }
     }
 
