@@ -167,7 +167,7 @@ public class r {
         System.out.println("y=" + point[0] + " x=" + point[1]);
         System.out.println("y=" + point1[0] + " x=" + point1[1]);
         System.out.println("y=" + point2[0] + " x=" + point2[1]);
-        System.out.println("y=" + point3[0] + " x=" + point3[1]);
+        System.out.println("github commit");
     }
     }
 
